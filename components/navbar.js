@@ -1,4 +1,9 @@
-//import { NavbarTemplate } from '../templates/navbar-template.js'
+/**
+ * Author: muneer <imuneer.lk@gmail.com>
+ * Date: 30-01-2020
+ * Type: Component
+ * Name: Navbar
+ */
 
 var NavbarTemplate = `<nav>
 
