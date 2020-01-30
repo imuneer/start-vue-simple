@@ -4,7 +4,7 @@
  * Type: module
  * Name: MainApp
  */
-import Vue from '../vendor/vue.js'
+import Vue from '../vendor/vue.esm.browser.js'
 import Navbar from '../components/navbar.js'
   
 
